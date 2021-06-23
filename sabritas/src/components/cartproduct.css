@@ -1,0 +1,16 @@
+
+.cart-product{
+    display: flex;
+}
+
+.cart-product img{
+    flex: 2;
+}
+
+.cart-product h6{
+    flex: 4;
+}
+
+.cart-product label{
+    flex: 2;
+}
